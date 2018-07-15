@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 1615455,
+    "Username": "TKarasch",
+    "Name": "Thomas Karasch",
+    "Email": "tom.karasch@dnr.ga.gov",
+    "AvatarUrl": "https://assets.gitlab-static.net/uploads/-/system/user/avatar/1615455/avatar.png",
+    "PrivateToken": "e128caa43194fb020926d24a7a961bb4cb2a31c68638eda129d97f1c4bce7931",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
